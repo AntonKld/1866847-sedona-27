@@ -1,4 +1,4 @@
-# Личный проект «Седона» 
+[Можно посмотреть этот сайт](https://antonkld.github.io/1866847-sedona-27/)
 
 * Студент: [Антон Кольцов](https://up.htmlacademy.ru/adaptive/27/user/1866847).
 * Наставник: [Олег Цыганов](https://htmlacademy.ru/profile/olegtsyganov).
